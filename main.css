@@ -1,0 +1,27 @@
+/* basic elements */
+html{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: georgia, sans-serif;
+	font-size: 75%;
+	color: #555753;
+	background-color: #fff;
+	background-image: url("img/fondo-1.jpg");
+	background-repeat: no-repeat;
+    background-position: bottom right;
+    margin: 0;
+	padding: 0;
+}
+
+p{
+	margin-top: 0;
+	text-align: justify;
+}
+
+h3{
+	font-style: italic;
+	font-stretch: normal;
+}
